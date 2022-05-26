@@ -7,3 +7,5 @@ ls -la to display current directory contents in a long format including hidden f
 
 ls -lan to display current directory contents in a long format including hidden files and group Ids 
 
+mkdir /tmp/my_first_directory/ creates a directory named my_first_directory in the /tmp/ directory. 
+
