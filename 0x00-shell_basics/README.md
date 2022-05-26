@@ -5,3 +5,5 @@ cd - a script that changes the working directory to the user’s home directory
 ls -l. A command to display current directory contents in a long format
 ls -la to display current directory contents in a long format including hidden files
 
+ls -lan to display current directory contents in a long format including hidden files and group Ids 
+
